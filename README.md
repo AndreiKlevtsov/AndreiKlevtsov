@@ -1,7 +1,7 @@
 # Hey There! 👋
-**I'm Andrey** - I'm a backend developer. I'm interested in development, film/digital photography and gaming.
+### **I'm Andrey** - I'm a backend developer. I'm interested in development, film/digital photography and gaming.
 
-Сontacts:
+### Сontacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/klevtsov_andrey)
 
 
